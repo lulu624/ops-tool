@@ -1,0 +1,9 @@
+jumpserver:
+  url: http://192.168.4.165:31944
+  username: jingjun
+  password: a111111A
+yearning:
+  url: http://192.168.4.165:32153
+  username: jingjun
+  password: a111111A
+  is_ldap: false

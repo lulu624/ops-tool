@@ -1,0 +1,9 @@
+jumpserver:
+  url: http://127.0.0.1:31944
+  username: test
+  password: 123456
+yearning:
+  url: http://127.0.0.1:32153
+  username: test
+  password: 123456
+  is_ldap: false
